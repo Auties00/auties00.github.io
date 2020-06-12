@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "566f06aa0b984a33ad8f39dceecda987",
+  "assets/AssetManifest.json": "10167d4631732b485c81c4d26d98e330",
 "assets/assets/images/cc.png": "5a1a7772fe184bc3018fd61cecf3f128",
 "assets/assets/images/coal.png": "50efa41c3965aafb11d68f3eb67e0ada",
 "assets/assets/images/CPU.png": "0d0a74eae8704f88904bd7fdfcfec1cd",
@@ -21,12 +21,9 @@ const RESOURCES = {
 "assets/assets/images/lapis.png": "90f05e86b219784899780d2eea2693fb",
 "assets/assets/images/location.jpg": "6557533f19b5c4bfc3739d2951bcbf43",
 "assets/assets/images/logo-full.png": "a1bdca1faf94275235a2071f6d99a53f",
-"assets/assets/images/neg.png": "477603e9fbc416bfce2f4e185dee0a6f",
 "assets/assets/images/netherlands.png": "f1a4235dfbd1d27466369e2605d2009e",
 "assets/assets/images/north%2520america.png": "760554e76a2d94a45a9c7b7f7abb057e",
 "assets/assets/images/play.jpg": "46d0727f7117c7f446bfd442f2c14ca7",
-"assets/assets/images/plus.png": "f12643b36ed1f27266c10f336655b880",
-"assets/assets/images/pos.png": "52d8be629cb712805e47865f0e97c1c4",
 "assets/assets/images/pp.png": "2adb69dada0d9b4ba457cd586b971a06",
 "assets/assets/images/price.jpg": "05396d5dd3a59a9032944c0bda442229",
 "assets/assets/images/redstone.png": "a2cfe3d5692b385105f38e5afb7c3270",
@@ -44,7 +41,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "564455a3f1339926aa5dd5c99673e5f6",
 "/": "564455a3f1339926aa5dd5c99673e5f6",
-"main.dart.js": "5b492a5dd4e0469bd59e13cc0e35b735",
+"main.dart.js": "7b5aee53c02c5ddb34cef60828f1626b",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711"
 };
 
