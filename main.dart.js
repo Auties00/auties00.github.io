@@ -46609,7 +46609,7 @@ giI:function(a){return this.a},
 gkc:function(a){return this.b}}
 F.ya.prototype={
 C:function(a){var t=X.a3y(null,C.mv,X.aar())
-return new S.ql(P.aQ(["/",new F.N1(),"/login",new F.N2(),"/register",new F.N3(),"/purchase/location",new F.N4(),"/purchase/plan",new F.N5(),"/purchase/pay",new F.N6()],u.X,u.gd),"/","Hytales Hosting",t,!1,null)}}
+return new S.ql(P.aQ(["/",new F.N1(),"/login",new F.N2(),"/register",new F.N3(),"/purchase/location",new F.N4(),"/purchase/plan",new F.N5(),"/purchase/pay",new F.N6()],u.X,u.gd),"/","Hytale Hosting",t,!1,null)}}
 F.N1.prototype={
 $1:function(a){return new X.jQ(null)},
 $S:182}
