@@ -34,14 +34,15 @@ const RESOURCES = {
 "assets/assets/images/sweden.png": "d8a7dc2d830fdbf63bac610d714c4a78",
 "assets/assets/images/united%2520kindom.png": "0ff5d3a1089bf8d541aff696391bef1b",
 "assets/assets/images/unlimited.png": "901ad6cea31267b50f3da8f166490c44",
-"assets/FontManifest.json": "d751713988987e9331980363e24189ce",
+"assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
+"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/NOTICES": "537046761abee79b913025f69fbf8e05",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "564455a3f1339926aa5dd5c99673e5f6",
 "/": "564455a3f1339926aa5dd5c99673e5f6",
-"main.dart.js": "5b492a5dd4e0469bd59e13cc0e35b735",
+"main.dart.js": "d9f1c74a823f0346d9b35966b297eba6",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711"
 };
 
