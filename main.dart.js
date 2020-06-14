@@ -46230,7 +46230,7 @@ $.a96=t
 q=t.a
 $.hv=q.a
 $.b2=q.b
-q=T.br(H.a([new X.er(this.f,!0,s),new S.rZ(s),new O.t1("https://i.imgur.com/6ELKtUs.mp4",s),new F.nc(s),new K.t0(s),new F.nc(s),new Y.t_(s),new F.nc(s),new V.t2(s),new G.ep(s)],u.t),C.n,C.bP)
+q=T.br(H.a([new X.er(this.f,!0,s),new S.rZ(s),new O.t1("https://i.imgur.com/VPTYKX2.mp4",s),new F.nc(s),new K.t0(s),new F.nc(s),new Y.t_(s),new F.nc(s),new V.t2(s),new G.ep(s)],u.t),C.n,C.bP)
 return M.kg(s,M.bt(s,U.yK(new E.B2(this.e,!1,C.n8,q,s),new X.UH(),u.ya),C.t,s,s,s,s,s,s,s))}}
 X.UI.prototype={
 $0:function(){},
