@@ -46519,7 +46519,7 @@ return T.br(H.a([new U.eq(t.toLowerCase()+".png",C.bh,r),L.b7(t,r,r,r,B.aO(C.j,1
 s=this.c
 return T.cy(H.a([new T.aa(t,r,r,r),new U.eq(s.toLowerCase()+".png",C.bh,r),new T.aa(t,r,r,r),L.b7(s,r,r,r,B.aO(C.j,16,C.B),C.ai),new T.aa(15*($.hv/a.a),r,r,r)],u.t),C.n,C.bP)},
 C:function(a){var t,s=null,r=$.bC,q=this.d===C.l,p=$.hv
-p=q?200*(p/r.a):300*(p/r.a)
+p=q?150*(p/r.a):300*(p/r.a)
 t=$.b2
 q=q?100*(t/r.b):50*(t/r.b)
 return new T.aa(p,q,R.xU(!1,!0,V.Zu(this.PD(r),C.fy,C.bk,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,this.e,s),s)},
