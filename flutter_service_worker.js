@@ -36,13 +36,13 @@ const RESOURCES = {
 "assets/assets/images/unlimited.png": "901ad6cea31267b50f3da8f166490c44",
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "fd4f4d7962abe5386072bbf5e4e90c22",
+"assets/NOTICES": "90c69d532f65014d2f9d2d462b4890aa",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "564455a3f1339926aa5dd5c99673e5f6",
-"/": "564455a3f1339926aa5dd5c99673e5f6",
-"main.dart.js": "41540259091f6eec95d79ae468092f0e",
+"index.html": "6fe76e02cde739a36448ca06d2686ad1",
+"/": "6fe76e02cde739a36448ca06d2686ad1",
+"main.dart.js": "191d20a8a5fb4f16196a97b30fba4387",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711"
 };
 
@@ -52,7 +52,7 @@ const CORE = [
   "/",
 "main.dart.js",
 "index.html",
-"assets/LICENSE",
+"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 
@@ -157,7 +157,7 @@ self.addEventListener("fetch", (event) => {
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
-  if (event.message == 'skipWaiting') {
+  if (event.data == 'skipWaiting') {
     return self.skipWaiting();
   }
 
@@ -181,8 +181,8 @@ async function downloadOffline() {
   }
   for (var resourceKey in Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
-      resources.add(resourceKey);
+      resources.push(resourceKey);
     }
   }
-  return Cache.addAll(resources);
+  return contentCache.addAll(resources);
 }
