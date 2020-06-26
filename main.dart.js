@@ -43543,6 +43543,8 @@ q.a.toString
 r.autoplay=!0
 q.a.toString
 r.controls=!1
+r.muted=!0
+r.defaultMuted=!0
 q=r.style
 q.border="none"
 return r},
