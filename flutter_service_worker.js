@@ -36,14 +36,14 @@ const RESOURCES = {
 "assets/assets/images/unlimited.png": "901ad6cea31267b50f3da8f166490c44",
 "assets/FontManifest.json": "580ff1a5d08679ded8fcf5c6848cece7",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "c2dea5abd0d112da6d847cf27cc96350",
+"assets/NOTICES": "8319913a720846036940ee4e7a417282",
 "favicon.ico": "a66d5305e5c694d93acb3a94675aede1",
 "favicon.png": "4c4d18f10ca416befdf584f966a59b8d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "564455a3f1339926aa5dd5c99673e5f6",
 "/": "564455a3f1339926aa5dd5c99673e5f6",
-"main.dart.js": "db2899fce4af196586ab474ac0f5fdea",
+"main.dart.js": "c1347555a2ffe463abee2c3d50554e45",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711"
 };
 
