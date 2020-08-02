@@ -47613,7 +47613,7 @@ l=new N.bd(k,s)
 q.push(l)
 s=new N.bd(k,s)
 q.push(s)
-return B.a3l(!0,!0,!0,10,H.a([new X.e8(q,!0,r),new S.tx(p),new O.tA("https://i.imgur.com/VPTYKX2.mp4",o),new F.nx(k),new K.tz(n),new F.nx(k),new Y.ty(m),new F.nx(k),new V.tB(l),new G.fj(s)],t.t),j.d,C.oc,!1)}}
+return B.a3l(!0,!0,!0,9999,H.a([new X.e8(q,!0,r),new S.tx(p),new O.tA("https://i.imgur.com/VPTYKX2.mp4",o),new F.nx(k),new K.tz(n),new F.nx(k),new Y.ty(m),new F.nx(k),new V.tB(l),new G.fj(s)],t.t),j.d,C.oc,!1)}}
 X.W7.prototype={
 $1:function(a){a.keyCode!==38}}
 K.ka.prototype={
@@ -47781,7 +47781,7 @@ S.tx.prototype={
 ao:function(){return new S.Hu(null,C.l)}}
 S.Hu.prototype={
 A:function(a){this.fi(a)
-P.d4("Build")
+P.d4("Build announcements")
 return new A.dT(new S.YP(),null)},
 geH:function(){return!0}}
 S.YP.prototype={
@@ -47804,7 +47804,7 @@ Y.ty.prototype={
 ao:function(){return new Y.Hv(null,C.l)}}
 Y.Hv.prototype={
 A:function(a){this.fi(a)
-P.d4("Build")
+P.d4("Build features")
 return new A.dT(new Y.YQ(),null)},
 geH:function(){return!0}}
 Y.YQ.prototype={
@@ -47835,7 +47835,7 @@ G.fj.prototype={
 ao:function(){return new G.Hw(null,C.l)}}
 G.Hw.prototype={
 A:function(a){this.fi(a)
-P.d4("Build")
+P.d4("Build footer")
 return new A.dT(new G.YR(),null)},
 geH:function(){return!0}}
 G.YR.prototype={
@@ -47872,7 +47872,7 @@ K.tz.prototype={
 ao:function(){return new K.Hx(null,C.l)}}
 K.Hx.prototype={
 A:function(a){this.fi(a)
-P.d4("Build")
+P.d4("Build introduction")
 return new A.dT(new K.YS(),null)},
 geH:function(){return!0}}
 K.YS.prototype={
@@ -47975,7 +47975,7 @@ ao:function(){return new V.HA(null,C.l)}}
 V.HA.prototype={
 geH:function(){return!0},
 A:function(a){this.fi(a)
-P.d4("Build")
+P.d4("Build pricing")
 return new A.dT(new V.YZ(),null)}}
 V.YZ.prototype={
 $2:function(a,b){var s=null,r=b.b
@@ -48010,7 +48010,7 @@ O.Hz.prototype={
 geH:function(){return!0},
 A:function(a){var s=null
 this.fi(a)
-P.d4("Build")
+P.d4("Build player")
 return new T.a0(s,s,new T.wE(1.7777777777777777,new O.D0(this.a.c,!0,!1,s),s),s)}}
 O.I8.prototype={
 aB:function(){this.aU()
