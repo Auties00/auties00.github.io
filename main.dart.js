@@ -49043,12 +49043,13 @@ $1:function(a){return a.c=!1}}
 X.WO.prototype={
 $2:function(a,b){var s,r,q,p,o,n,m,l,k,j=null,i="https://i.imgur.com/VPTYKX2.mp4",h=this.a
 h.NU(b)
-s=G.oG()
+if(b.b<=650){s=G.oG()
 s.toString
+s=s===$.IU()}else s=!1
 r=t.t
 q=t.Ek
 p=h.e
-if(s===$.IU()){h=new N.aF(j,q)
+if(s){h=new N.aF(j,q)
 p.push(h)
 s=new N.aF(j,q)
 p.push(s)
