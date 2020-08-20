@@ -50418,7 +50418,7 @@ q.toString
 if(q===$.wC())q="Firefox Browser"
 else{q=G.lL()
 q.toString
-q=q===$.a1D()?"Safari Browser":"Other browser"}}return M.br(C.Y,T.cf(H.b([L.b8(u.c+q+" - Desktop View\nVersion v0.5",2,s,s,B.aN(C.j,s,C.q),C.af),new U.eN("cc.png",C.bp,!0,s)],t.t),C.n,C.x),C.o,C.b5,s,s,r,s,s,17976931348623157e292)}}
+q=q===$.a1D()?"Safari Browser":"Other browser"}}return M.br(C.Y,T.cf(H.b([L.b8(u.c+q+" - Desktop View(v0.5)",2,s,s,B.aN(C.j,s,C.q),C.af),new U.eN("cc.png",C.bp,!0,s)],t.t),C.n,C.x),C.o,C.b5,s,s,r,s,s,17976931348623157e292)}}
 G.D9.prototype={
 C:function(a,b){var s=null,r=X.ak(150),q=G.lL()
 q.toString
