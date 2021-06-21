@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_5.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/src/page/login_page.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/editable_text.dart","org-dartlang-sdk:///lib/collection/linked_list.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/framework.dart","../../../lib/src/widget/web_navigation_bar.dart","../../../lib/src/widget/text_input.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../lib/src/widget/web_footer.dart","../../../../../../../flutter/packages/flutter/lib/src/foundation/change_notifier.dart"],
+  "names": ["LoginPage","LoginPage.createState","_LoginPageState._emailController","ChangeNotifier._listeners","_LoginPageState._passwordController","State","_LoginPageState.build","_LoginPageState.build.<anonymous function>","","_emailController","_LoginPageState","TextEditingController","ValueNotifier","_listeners","ChangeNotifier","_passwordController","_debugLifecycleState"],
+  "mappings": "A;0DAWEA;oCAAsCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAGtBC,WAGZA;AAH6BA,gBC+HjCC,UAC0CA,IC1G1CC,aDyGAC,UAC0CF,IC1G1CC,cCq1BuDE,GH32BLJ,C;;EAQ3CK,cAaSA,gDAEuBA,MACDA,OACSA,KAHNA,QAKzBA,OACUA,cAMJA,SAEuBA,MAZPA,OAceA,iCAIRA,MACRA,QALgBA,MAQfA;AAAgCA,CAARA;AAhB9CA,qBACQA,KAEgBA,OAOlBA,2CAlBmBA;AA6BzBA,SACUA;AASVA,SACUA;AASVA,SACUA;AAMCA;AACCA;AAtEnBA;AAAPA,YAEQA,OAEKA,KAEKA,KIjBdA,iBJmBMA,KAGYA,aKxBlBA,qBL8DwBA,IADAA,SK7DxBA,wBLwEwBA,IADAA,SMknDxBA,UNzmD2BA,IACRA,KAGEA,MAIEA,oBACgBA,MA7DPA,MACSA,UAkBVA,KAsCuBA,IAE3BA,2BAjEoBA,IACFA,SOxBnDA,iBPuBqDA,IAJNA,cAFhCA,kBAsFfA,C;;AApDsFC;GAAhBA,WAAMA,gBAAoBA,mBAC1EA,C;;AAoC2BA;GAAhBA,WAAMA,gBAAoBA,gBAAkBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "4qBAcmCQU;gBAAAAAAIcCAAAADcC4H3CAAOwJJAAAvLyCKAAAALa,A,A,A,A,A,AR5FSOAAAAPU,A,AADHCAAAADI,A,AACGOAAAAPAC2H9CAAOwJJAAAvLyCKAAAALc,A,A,A,A,A,AR9FrCAAGw2BmDQG,A,A;4bH31B3CRiB;kBAuCIAqB;aAUAAwB;aAUAAU;0GAkBJAiB;"
+  }
+}

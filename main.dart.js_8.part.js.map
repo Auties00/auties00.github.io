@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_8.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/src/page/register_page.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/editable_text.dart","org-dartlang-sdk:///lib/collection/linked_list.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/framework.dart","../../../lib/src/widget/web_navigation_bar.dart","../../../lib/src/widget/text_input.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../lib/src/widget/web_footer.dart","../../../../../../../flutter/packages/flutter/lib/src/foundation/change_notifier.dart"],
+  "names": ["RegisterPage","RegisterPage.createState","_RegisterPageState._nameController","ChangeNotifier._listeners","_RegisterPageState._emailController","_RegisterPageState._passwordController","_RegisterPageState._confirmPasswordController","State","_RegisterPageState.build","_RegisterPageState.build.<anonymous function>","","_nameController","_RegisterPageState","TextEditingController","ValueNotifier","_listeners","ChangeNotifier","_emailController","_passwordController","_confirmPasswordController","_debugLifecycleState"],
+  "mappings": "A;0DAWEA;oCAAyCA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;GAGtBC,WAGfA;AAHgCA,gBC+HpCC,UAC0CA,IC1G1CC,aDyGAC,UAC0CF,IC1G1CC,aDyGAE,UAC0CH,IC1G1CC,aDyGAG,UAC0CJ,IC1G1CC,cCq1BuDI,GH32BCN,C;;EAUjDO,cAaSA,+DAEuBA,MACDA,OACSA,KAHNA,QAKzBA,OACUA,cAMJA,SAEuBA,MAZPA,OAceA,kCAIRA,MACRA,QALgBA,MAQfA;AAAgCA,CAARA;AAhB9CA,qBACQA,KAEgBA,OAOlBA,0CAlBmBA;AA4BzBA,SACUA;AAOVA,SACUA;AAOVA,SACUA;AAOVA,SACUA;AAOVA,SACUA;AAKCA;AACCA;AAhFnBA;AAAPA,YAEQA,OAEKA,KAEKA,KInBdA,iBJqBMA,KAGYA,aK1BlBA,iBL8DwBA,IADAA,SK7DxBA,kBLsEwBA,IADAA,SKrExBA,qBL8EwBA,IADAA,SK7ExBA,6BLsFwBA,IATAA,SM4mDxBA,UN7lD2BA,IACRA,KAGEA,MAIEA,sBACgBA,MAvEPA,MACSA,UAkBVA,KAgDuBA,IAE3BA,2BA3EoBA,IACFA,SO1BnDA,iBPyBqDA,IAJNA,cAFhCA,kBAgGfA,C;;AA9DsFC;GAAhBA,WAAMA,gBAAoBA,gBAAkBA,C;;AA+CjEA;GAAhBA,WAAMA,gBAAoBA,gBAAkBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "4rBAcsCUU;gBAAAAAAIUCAAAADcC4H1CAAOwJJAAAvLyCKAAAALa,A,A,A,A,A,AR5FMOAAAAPU,A,AADDCAAAADI,A,AACCOAAAAPAC2H3CAAOwJJAAAvLyCKAAAALa,A,A,A,A,A,AR3FSQAAAARU,A,AAFJCAAAADI,A,AAEIQAAAARAC0H9CAAOwJJAAAvLyCKAAAALa,A,A,A,A,A,AR1FgBSAAAATU,A,AAHXCAAAADI,A,AAGWSAAAATACyHrDAAOwJJAAAvLyCKAAAALc,A,A,A,A,A,AR9FrCAAGw2BmDUG,A,A;qfHz1B3CViB;kBAqCIAiB;aAQAAkB;aAQAAqB;aAQAA6B;aAQAAU;4GAkBJAiB;"
+  }
+}

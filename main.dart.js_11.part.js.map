@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_11.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/src/widget/web_payment_item.dart","../../../lib/src/page/purchase/purchase_pay.dart","../../../lib/src/widget/web_navigation_bar.dart","../../../lib/src/widget/web_footer.dart","../../../lib/src/widget/web_image.dart"],
+  "names": ["WebPaymentItem","PurchasePayPage","PurchasePayPage.build","WebPaymentItem._buildBody","WebPaymentItem.build","PurchasePayPage.build.<anonymous function>",""],
+  "mappings": "A;0DAcQA;uDAMkBA,C;;;;;;;ACZpBC;qC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAEGC,cACEA;AAAPA,YACQA,OAEKA,KAEKA,KCJdA,iBDMMA,KAGYA,KACRA,8BAEuBA,MACDA,OACSA,KAHNA,MAKzBA,OACUA,YAEVA,oDAEuBA,MARDA,OAUSA,KAZNA,MAczBA,OACUA,iBAnB2BA,IACFA,QAsBvCA,uBAGSA,eAETA,gCAKSA,eE3CrBA,iBFUqDA,IAJNA,cAFhCA,iBA+CfA,C;;GDtCOC,WAEIA,yBAGKA,KACRA,KIrBFA,UJwBwBA,WAAwBA,WAFlCA,IACDA,IAEXA,MAAKA,SAEkBA,MACDA,OACSA,MAHNA,cAPYA,IADFA;AADvCA,QAwCJA,C;EAGOC,cAGGA,yBAGAA;AALRA,OAAOA,KAOEA,WAEEA,MAGIA,WAFYA,KACZA,sCAHJA,cAObA,C;;;;GCtCqBC,WAAKA,C;;;GAOLA,WAAKA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "4xBCiBcMiB;wRAsCAAiB;wGDxBOAU;"
+  }
+}
