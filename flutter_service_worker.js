@@ -40,8 +40,8 @@ const RESOURCES = {
 "favicon.png": "4c4d18f10ca416befdf584f966a59b8d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "730090c6c55ce1dd30d6994d8a3f7c4a",
-"/": "730090c6c55ce1dd30d6994d8a3f7c4a",
+"index.html": "3b71407017be714ebe38af222b6f0e9d",
+"/": "3b71407017be714ebe38af222b6f0e9d",
 "main.dart.js": "73a187aa106d48fa4556e45e0f591d9c",
 "main.dart.js_1.part.js": "a72bcaa59c3c8c81c5f38dc195240d67",
 "main.dart.js_10.part.js": "071e7e494058e3359d0b07d985aecdd1",
@@ -55,7 +55,7 @@ const RESOURCES = {
 "main.dart.js_8.part.js": "abac8e32aa96a369efd9fd359e751eff",
 "main.dart.js_9.part.js": "225c8864433f9bbd9bada22de181c543",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711",
-"style.css": "06d959574656848dc02e6a08f5c68d7e",
+"style.css": "1c4781bf6604b687320c4b0cdcca3ef9",
 "version.json": "be4e7a1f06d1da23c4135387c010b4ec"
 };
 
