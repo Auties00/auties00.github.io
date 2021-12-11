@@ -1,8 +1,8 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var D={
-atA(){return new D.vS(null)},
-vS:function vS(d){this.a=d},
-Mm:function Mm(d,e,f,g,h){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+aty(){return new C.vT(null)},
+vT:function vT(d){this.a=d},
+Mq:function Mq(d,e,f,g,h){var _=this
 _.d=d
 _.e=e
 _.f=f
@@ -10,43 +10,49 @@ _.r=g
 _.a=null
 _.b=h
 _.c=null},
-a7Y:function a7Y(d){this.a=d},
-a7Z:function a7Z(d){this.a=d}},E,C,B,A,G,H,F
-a.setFunctionNamesIfNecessary([D])
-D=a.updateHolder(c[5],D)
+a83:function a83(d){this.a=d},
+a84:function a84(d){this.a=d}},E,B,D,A,G,H,F
+a.setFunctionNamesIfNecessary([C])
+C=a.updateHolder(c[5],C)
 E=c[10]
-C=c[2]
-B=c[13]
+B=c[2]
+D=c[13]
 A=c[0]
 G=c[16]
 H=c[19]
 F=c[18]
-D.vS.prototype={
+C.vT.prototype={
 av(){var x=null
-return new D.Mm(E.wV(x),E.wV(x),E.wV(x),E.wV(x),C.k)}}
-D.Mm.prototype={
-G(d,e){var x,w,v,u,t,s,r=this,q=null,p=B.bz("CREATE AN ACCOUNT",q,q,q,B.b6(C.i,32,C.G),C.L,q),o=A.as(q,B.ax(10),q),n=A.cM(q,q,B.b6(C.i,16,C.r),"Do you have an account? "),m=B.b6(G.bn,16,C.r),l=A.Hj(q)
-l.aX=new D.a7Y(e)
-m=A.pt(q,q,C.aY,!0,q,A.cM(A.c([n,A.cM(q,l,m,"Sign in here")],y.h),q,q,""),C.L,q,q,1,C.aj)
-l=A.as(q,B.ax(30),q)
-n=A.as(q,B.ax(10),q)
-x=A.as(q,B.ax(10),q)
-w=A.as(q,B.ax(10),q)
-v=A.as(q,B.ax(30),q)
-u=B.i1(350)
-t=B.ax(50)
-s=y.o
-return B.kU(A.bQ(q,B.cz(A.c([new B.fl(q,!1,q),B.cz(A.c([p,o,m,l,new E.jK("Name",r.d,H.zy,q),n,new E.jK("Email",r.e,F.iS,q),x,new E.jK("Password",r.f,F.fm,q),w,new E.jK("Confirm password",r.r,F.fm,q),v,new A.e5(F.fe,A.as(B.ad2(B.bz("REGISTER",q,q,q,B.b6(C.i,q,C.G),q,q),G.bn,C.dd,new D.a7Z(e)),t,u),q)],s),C.p,C.e7,C.o),new B.hN(q)],s),C.p,C.bw,C.o),C.m,G.a2,q,q,q,q,q),!1)}}
+return new C.Mq(E.wW(x),E.wW(x),E.wW(x),E.wW(x),B.k)}}
+C.Mq.prototype={
+G(d,e){var x,w,v,u,t,s,r,q=this,p=null,o=D.bB("CREATE AN ACCOUNT",p,p,p,D.b7(B.i,32,B.G),B.L,p),n=A.as(p,10*($.aZ.b/$.aW.b),p),m=A.cN(p,p,D.b7(B.i,16,B.r),"Do you have an account? "),l=D.b7(G.bn,16,B.r),k=A.Hm(p)
+k.aX=new C.a83(e)
+l=A.pu(p,p,B.aY,!0,p,A.cN(A.c([m,A.cN(p,k,l,"Sign in here")],y.h),p,p,""),B.L,p,p,1,B.aj)
+k=$.aZ
+m=k.b
+x=$.aW
+m/=x.b
+w=30*m
+v=A.as(p,w,p)
+u=10*m
+t=A.as(p,u,p)
+s=A.as(p,u,p)
+u=A.as(p,u,p)
+w=A.as(p,w,p)
+k=k.a
+x=x.a
+r=y.o
+return D.kU(A.bS(p,D.cA(A.c([new D.fn(p,!1,p),D.cA(A.c([o,n,l,v,new E.jK("Name",q.d,H.zz,p),t,new E.jK("Email",q.e,F.iT,p),s,new E.jK("Password",q.f,F.fn,p),u,new E.jK("Confirm password",q.r,F.fn,p),w,new A.e7(F.ff,A.as(D.ad4(D.bB("REGISTER",p,p,p,D.b7(B.i,p,B.G),p,p),G.bn,B.dd,new C.a84(e)),50*m,350*(k/x)),p)],r),B.p,B.e8,B.o),new D.hO(p)],r),B.p,B.bw,B.o),B.m,G.a2,p,p,p,p,p),!1)}}
 var z=a.updateTypes([])
-D.a7Y.prototype={
-$0(){return B.bq(this.a,"/login",y.a)},
+C.a83.prototype={
+$0(){return D.bs(this.a,"/login",y.a)},
 $S:1}
-D.a7Z.prototype={
-$0(){return B.bq(this.a,"/login",y.a)},
+C.a84.prototype={
+$0(){return D.bs(this.a,"/login",y.a)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(D.vS,A.V)
-x(D.Mm,A.a5)
-w(A.eB,[D.a7Y,D.a7Z])})()
-A.hT(b.typeUniverse,JSON.parse('{"vS":{"V":[],"h":[]},"Mm":{"a5":["vS*"]}}'))
-var y={h:A.K("m<iA*>"),o:A.K("m<h*>"),a:A.K("u*")};(function constants(){H.zy=new A.m0(58513,!1)})()}
-$__dart_deferred_initializers__["oGMLjC7xb5f+Fv+PU/NLuIUps2Y="] = $__dart_deferred_initializers__.current
+x(C.vT,A.V)
+x(C.Mq,A.a5)
+w(A.eD,[C.a83,C.a84])})()
+A.hU(b.typeUniverse,JSON.parse('{"vT":{"V":[],"h":[]},"Mq":{"a5":["vT*"]}}'))
+var y={h:A.L("m<iA*>"),o:A.L("m<h*>"),a:A.L("u*")};(function constants(){H.zz=new A.m1(58513,!1)})()}
+$__dart_deferred_initializers__["ZGeSj4UELVRiEAdZcstIVaQvnlM="] = $__dart_deferred_initializers__.current

@@ -1,46 +1,51 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var D={
-asx(){return new D.uT(null)},
-uT:function uT(d){this.a=d},
-KY:function KY(d,e,f){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+asv(){return new C.uU(null)},
+uU:function uU(d){this.a=d},
+L1:function L1(d,e,f){var _=this
 _.d=d
 _.e=e
 _.a=null
 _.b=f
 _.c=null},
-a6Y:function a6Y(d){this.a=d},
-a6Z:function a6Z(d){this.a=d}},E,B,C,A,F,G
-a.setFunctionNamesIfNecessary([D])
-D=a.updateHolder(c[4],D)
+a73:function a73(d){this.a=d},
+a74:function a74(d){this.a=d}},E,B,D,A,F,G
+a.setFunctionNamesIfNecessary([C])
+C=a.updateHolder(c[4],C)
 E=c[10]
 B=c[2]
-C=c[13]
+D=c[13]
 A=c[0]
 F=c[16]
 G=c[18]
-D.uT.prototype={
-av(){return new D.KY(E.wV(null),E.wV(null),B.k)}}
-D.KY.prototype={
-G(d,e){var x,w,v,u,t=null,s=C.bz("CUSTOMER AREA",t,t,t,C.b6(B.i,32,B.G),B.L,t),r=A.as(t,C.ax(10),t),q=A.cM(t,t,C.b6(B.i,16,B.r),"Don't have an account? "),p=C.b6(F.bn,16,B.r),o=A.Hj(t)
-o.aX=new D.a6Y(e)
-p=A.pt(t,t,B.aY,!0,t,A.cM(A.c([q,A.cM(t,o,p,"Register here")],y.h),t,t,""),B.L,t,t,1,B.aj)
-o=A.as(t,C.ax(30),t)
-q=A.as(t,C.ax(10),t)
-x=A.as(t,C.ax(30),t)
-w=C.i1(350)
-v=C.ax(50)
-u=y.o
-return C.kU(A.bQ(t,C.cz(A.c([new C.fl(t,!1,t),C.cz(A.c([s,r,p,o,new E.jK("Email",this.d,G.iS,t),q,new E.jK("Password",this.e,G.fm,t),x,new A.e5(G.fe,A.as(C.ad2(C.bz("LOG IN",t,t,t,C.b6(B.i,t,B.G),t,t),F.bn,B.dd,new D.a6Z(e)),v,w),t)],u),B.p,B.e7,B.o),new C.hN(t)],u),B.p,B.bw,B.o),B.m,F.a2,t,t,t,t,t),!1)}}
+C.uU.prototype={
+av(){return new C.L1(E.wW(null),E.wW(null),B.k)}}
+C.L1.prototype={
+G(d,e){var x,w,v,u,t,s=null,r=D.bB("CUSTOMER AREA",s,s,s,D.b7(B.i,32,B.G),B.L,s),q=A.as(s,10*($.aZ.b/$.aW.b),s),p=A.cN(s,s,D.b7(B.i,16,B.r),"Don't have an account? "),o=D.b7(F.bn,16,B.r),n=A.Hm(s)
+n.aX=new C.a73(e)
+o=A.pu(s,s,B.aY,!0,s,A.cN(A.c([p,A.cN(s,n,o,"Register here")],y.h),s,s,""),B.L,s,s,1,B.aj)
+n=$.aZ
+p=n.b
+x=$.aW
+p/=x.b
+w=30*p
+v=A.as(s,w,s)
+u=A.as(s,10*p,s)
+w=A.as(s,w,s)
+n=n.a
+x=x.a
+t=y.o
+return D.kU(A.bS(s,D.cA(A.c([new D.fn(s,!1,s),D.cA(A.c([r,q,o,v,new E.jK("Email",this.d,G.iT,s),u,new E.jK("Password",this.e,G.fn,s),w,new A.e7(G.ff,A.as(D.ad4(D.bB("LOG IN",s,s,s,D.b7(B.i,s,B.G),s,s),F.bn,B.dd,new C.a74(e)),50*p,350*(n/x)),s)],t),B.p,B.e8,B.o),new D.hO(s)],t),B.p,B.bw,B.o),B.m,F.a2,s,s,s,s,s),!1)}}
 var z=a.updateTypes([])
-D.a6Y.prototype={
-$0(){return C.bq(this.a,"/register",y.a)},
+C.a73.prototype={
+$0(){return D.bs(this.a,"/register",y.a)},
 $S:1}
-D.a6Z.prototype={
-$0(){return C.bq(this.a,"/login",y.a)},
+C.a74.prototype={
+$0(){return D.bs(this.a,"/login",y.a)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(D.uT,A.V)
-x(D.KY,A.a5)
-w(A.eB,[D.a6Y,D.a6Z])})()
-A.hT(b.typeUniverse,JSON.parse('{"uT":{"V":[],"h":[]},"KY":{"a5":["uT*"]}}'))
-var y={h:A.K("m<iA*>"),o:A.K("m<h*>"),a:A.K("u*")}}
-$__dart_deferred_initializers__["qordQFTGkdHqumBRI6ZY+vUsYSY="] = $__dart_deferred_initializers__.current
+x(C.uU,A.V)
+x(C.L1,A.a5)
+w(A.eD,[C.a73,C.a74])})()
+A.hU(b.typeUniverse,JSON.parse('{"uU":{"V":[],"h":[]},"L1":{"a5":["uU*"]}}'))
+var y={h:A.L("m<iA*>"),o:A.L("m<h*>"),a:A.L("u*")}}
+$__dart_deferred_initializers__["kJpO/vdBjaGLIHiL5N+58k0YZlU="] = $__dart_deferred_initializers__.current

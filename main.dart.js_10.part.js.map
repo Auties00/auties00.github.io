@@ -3,14 +3,14 @@
   "engine": "v2",
   "file": "main.dart.js_10.part.js",
   "sourceRoot": "",
-  "sources": ["../../../lib/src/page/purchase/purchase_select_plan.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/layout_builder.dart","../../../lib/src/widget/web_navigation_bar.dart","../../../lib/src/widget/web_pricing_item.dart","../../../lib/src/widget/web_footer.dart","../../../lib/src/util/screen_util.dart"],
-  "names": ["PurchaseSelectPlanPage","PurchaseSelectPlanPage.build","PurchaseSelectPlanPageDesktop.build","PurchaseSelectPlanPageMobile.build","PurchaseSelectPlanPage.build.<anonymous function>","PurchaseSelectPlanPageDesktop.build.<anonymous function>","PurchaseSelectPlanPageMobile.build.<anonymous function>","","isDesktopHeight"],
-  "mappings": "A;0DAUMA;qC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AC2SEC;EDzSCA,cACLA,gBACWA,gBAMbA,C;;EAKOC,cACEA;AAAPA,YACUA,OAEGA,KAEKA,KEnBdA,iBFqBMA,KAGcA,KACRA,2BAEuBA,MACDA,OACSA,KAHNA,MAKzBA,OACUA,YAEVA,eAGuBA,MATDA,OAWSA,KAbNA,WAJYA,IACFA,SAmBzCA,KAEcA,KG1CpBA,+CHiDqBA,eGjDrBA,+CH0DqBA,eG1DrBA,+CHmEqBA,oBA/C4BA,IAqBFA,IA6BzCA,KAEcA,KGxEpBA,mDH+EqBA,eG/ErBA,mDHuFqBA,eGvFrBA,qDH+FqBA,oBA3E4BA,IAqBFA,II9CrDA,iBJyBuDA,IAJRA,cAFhCA,iBAyFfA,C;;EAKOC,cACEA;AAAPA,YACQA,OAEKA,iBAEKA,KACRA,KAEYA,KEvHlBA,iBF2HUA,OACUA,YAEVA,2BAEuBA,MACDA,OACSA,KAHNA,MAKzBA,OACUA,YAEVA,eAEuBA,MARDA,OAUSA,KAZNA,MAczBA,OACUA,YG5IpBA,+CHoJmBA,eAETA,OACUA,YGvJpBA,+CH+JmBA,eAETA,OACUA,YGlKpBA,+CH2KmBA,eAETA,OACUA,YG9KpBA,mDHuLmBA,eAETA,OACUA,YG1LpBA,mDHmMmBA,eAETA,OACUA,YGtMpBA,qDH8MmBA,eAETA,OACUA,qBA7FyBA,yBALpCA,iBA0GfA,C;;AAhNIC;GATSA,cACPA,QKfiCA,uBLwHnCA,cAtGCA,C;;AA6CsCC;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAU5CA;GADPA,WACHA,gBAAoBA,uBAAyBA,C;;AAQ1BA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAQnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAQnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAqDrCC;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAWnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C;;AAWnCA;GAAhBA,WAAMA,gBAAoBA,uBAAyBA,C",
+  "sources": ["../../../../../../../flutter/packages/flutter/lib/src/material/card.dart","../../../../../../../flutter/packages/flutter/lib/src/material/card_theme.dart"],
+  "names": ["Card","Card.build","of"],
+  "mappings": "A;0DAkDQA;kDAacA,C;;;;;;;;;;;;;;CA6EbC,MACyBA,wCC5CjBA,OAAYA,ODkDbA;cAAoBA;cAAgBA;GAGJA;cAAqBA;GACpDA;GACIA;cAAuBA;WAAaA;GACxCA;cAAmBA;cAAeA;GAI3BA;cAA0BA;WAbvCA,GAa4DA;AAbnEA,cAESA,OAEEA,gBAUEA,QAEEA,+DAXUA,MAQ0CA,4DAQrEA,C",
   "x_org_dartlang_dart2js": {
     "minified_names": {
       "global": "",
       "instance": ""
     },
-    "frames": "k7BAaWOmB;gIAmBGAiB;mJAyBMA+C;eAQAA+C;eAUAA+C;sCAYAAmD;eAQAAmD;eAQAAqD;4BASNAiB;2IAoBIAiB;mJAwBAA+C;kCAWAA+C;kCAWAA+C;kCAYAAmD;kCAYAAmD;kCAYAAqD;gHAtMJAoB;sBADCCuB;AAEDDc;"
+    "frames": "0bA8I0CEc;"
   }
 }

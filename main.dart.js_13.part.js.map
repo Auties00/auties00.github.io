@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_13.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/src/page/purchase/purchase_select_plan.dart","../../../../../../../flutter/packages/flutter/lib/src/widgets/layout_builder.dart","../../../lib/src/widget/web_navigation_bar.dart","../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/scale-0.0.3/lib/scale.dart","../../../lib/src/widget/web_pricing_item.dart","../../../lib/src/widget/web_footer.dart","../../../lib/src/util/screen_util.dart","../../../lib/src/constant/dimension.dart"],
+  "names": ["PurchaseSelectPlanPage","PurchaseSelectPlanPage.build","PurchaseSelectPlanPageDesktop.build","Scale.scaleVertically","PurchaseSelectPlanPageMobile.build","setHeight","PurchaseSelectPlanPage.build.<anonymous function>","PurchaseSelectPlanPageDesktop.build.<anonymous function>","PurchaseSelectPlanPageMobile.build.<anonymous function>","","scaleVertically","_verticallyScaleFactor","isDesktopHeight"],
+  "mappings": "A;0DAUMA;4B;;;;;;;;;;;;;;;;;;;;;;;;ACgQEC;CD9PCA,MACLA,gBACWA,gBAMbA,C;;CAKOC,MACEA;AAAPA,YACUA,OAEGA,KAEKA,KEnBdA,iBFqBMA,KAGcA,KACRA,2BAEuBA,MACDA,OACSA,KAHNA,MAKzBA,YG5BTC,GAAkBA,IAASA,GAAKA,OH+BvBD,eAGuBA,MATDA,OAWSA,KAbNA,WAJYA,IACFA,SAmBzCA,KAEcA,KI1CpBA,+CJiDqBA,eIjDrBA,+CJ0DqBA,eI1DrBA,+CJmEqBA,oBA/C4BA,IAqBFA,QA6BzCA,KAEcA,KIxEpBA,mDJ+EqBA,eI/ErBA,mDJuFqBA,eIvFrBA,qDJ+FqBA,oBA3E4BA,IAqBFA,QK9CrDA,iBLyBuDA,IAJRA,cAFhCA,iBAyFfA,C;;CAKOE,MAaSA,2BGxHPD,GAAkBA,IAASA,GAAKA,SH2HzBC,2BAEuBA,MACDA,OACSA,KAHNA,QAKzBA,YGjIPD,GAAkBA,IAASA,GAAKA,SHoIzBC,eAEuBA,MARDA,OAUSA,KAZNA,SG5HhCD,GAAkBA,IAASA,GAAKA;AAiChCE;AH2EAD;AAAPA,YACQA,OAEKA,iBAEKA,KACRA,KAEYA,KEvHlBA,yBF6IUA,YI3IVA,+CJoJmBA,eAETA,YItJVA,+CJ+JmBA,eAETA,YIjKVA,+CJ2KmBA,eAETA,YI7KVA,mDJuLmBA,eAETA,YIzLVA,mDJmMmBA,eAETA,YIrMVA,qDJ8MmBA,eAETA,qBA5FmCA,yBALpCA,iBA0GfA,C;;AAhNIE;EATSA,MACPA,QMfiCA,uBNwHnCA,cAtGCA,C;;AA6CsCC;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAU5CA;EADPA,GACHA,gBAAoBA,uBAAyBA,C;;AAQ1BA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAQnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAQnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAqDrCC;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAWnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAYnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C;;AAWnCA;EAAhBA,GAAMA,gBAAoBA,uBAAyBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "ivBAaWSkB;+GAmBGAiB;yEAYgBJAO1CWKAJ8CrBCiB,A,A;mEHSAF+C;eAQAA+C;eAUAA+C;0CAYAAmD;eAQAAmD;eAQAAqD;gCASNAiB;yFAwBcJAOtIaKAJ8CrBCmB,A,A;iEHiGQNAO/IaKAJ8CrBCmB,A,A;0CH0GQNAOxJaKAJ8CrBCoB,A,A;AHqHQNAOnKaKO,A;yDPkIvBDyB;YAwBAA+C;2BAWAA+C;2BAWAA+C;2BAYAAmD;2BAYAAmD;2BAYAAqD;yGAtMJAmB;cADCGuB;AAEDHc;"
+  }
+}
