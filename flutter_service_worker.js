@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "10167d4631732b485c81c4d26d98e330",
+  "assets/AssetManifest.json": "915bddd1f1b6dd57e307adcb8c6b37fa",
 "assets/assets/images/cc.png": "5a1a7772fe184bc3018fd61cecf3f128",
 "assets/assets/images/coal.png": "50efa41c3965aafb11d68f3eb67e0ada",
 "assets/assets/images/CPU.png": "0d0a74eae8704f88904bd7fdfcfec1cd",
@@ -34,9 +34,10 @@ const RESOURCES = {
 "assets/assets/images/sweden.png": "d8a7dc2d830fdbf63bac610d714c4a78",
 "assets/assets/images/united%2520kindom.png": "0ff5d3a1089bf8d541aff696391bef1b",
 "assets/assets/images/unlimited.png": "901ad6cea31267b50f3da8f166490c44",
+"assets/assets/images/wallpaper.jpg": "654ef942a107be84a17e6dc8296f324c",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "6a7a75953123026f596abdd7074169d3",
+"assets/NOTICES": "99c8d9cec6936a74c59584a4fa94442e",
 "assets/shaders/ink_sparkle.frag": "ae6c1fd6f6ee6ee952cde379095a8f3f",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -46,11 +47,11 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "a150b000cd499d8b1567536ac85a54da",
-"/": "a150b000cd499d8b1567536ac85a54da",
-"main.dart.js": "a05cd6c3172cad665a1caa11d9698be5",
+"index.html": "30bbd62d233a13359415365ce9dba7e5",
+"/": "30bbd62d233a13359415365ce9dba7e5",
+"main.dart.js": "64f656c23bebf37d9dde3efcdf9bb98e",
 "manifest.json": "a9a6fc8d1fe311548f76cb15ce98b711",
-"style.css": "423c89ec4c34c29f5b7ca90c46af5a70",
+"style.css": "1c4781bf6604b687320c4b0cdcca3ef9",
 "version.json": "5ab905c7d4f26c8b56f55bb966102575"
 };
 
