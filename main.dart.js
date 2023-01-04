@@ -66998,7 +66998,7 @@ q=q===$.af5()?"Safari Browser":"Other browser"}}s=b.b
 if(s<=650)s=B.kn
 else s=s<=1000?B.dh:B.dg
 s=s.b.toLowerCase()
-return A.bN("Copyright \xa9 2019-2023 Hypixel Server Hosting Ltd.\n"+q+" - "+(s[0].toUpperCase()+B.c.cE(s,1).toLowerCase())+" View(1.0)",2,r,r,A.bo(B.f,r,B.n),B.aB,r)},
+return A.bN("Copyright \xa9 2019-2023 Hypixel Server Hosting Ltd.\n"+q+" - "+(s[0].toUpperCase()+B.c.cE(s,1).toLowerCase())+" View(1.1)",2,r,r,A.bo(B.f,r,B.n),B.aB,r)},
 $S:421}
 A.Ql.prototype={
 ao(){this.aG()
