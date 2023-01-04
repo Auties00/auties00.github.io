@@ -67132,7 +67132,7 @@ I(a){this.ij(a)
 return new A.hE(new A.acE(),null)},
 ghl(){return!0}}
 A.acE.prototype={
-$2(a,b){return b.b<=1000?new A.Ja(null):new A.J9(null)},
+$2(a,b){return b.b<=650?new A.Ja(null):new A.J9(null)},
 $S:46}
 A.J9.prototype={
 I(a){var s=null,r=A.an(a).ay,q=25*($.bj.b/$.bk.b),p=t.p
