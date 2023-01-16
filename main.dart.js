@@ -67438,7 +67438,7 @@ p=p.b.toLowerCase()
 s=p[0]
 p=B.c.cG(p,1)
 r=$.ta().h(0,"flutterCanvasKit")!=null?"Canvas":"HTML"
-r=A.b([A.h4("Copyright \xa9 2019-2023 Hypixel Server Hosting Ltd\n"+n+" - "+(s.toUpperCase()+p.toLowerCase())+" View - "+r+" Renderer - Version 1.2",q,q,q,A.cz(B.i,q,B.p),B.bw,q)],t.p)
+r=A.b([A.h4("Copyright \xa9 2019-2023 Hypixel Server Hosting Ltd\n"+n+" - "+(s.toUpperCase()+p.toLowerCase())+" View - "+r+" Renderer - Version 0.1",q,q,q,A.cz(B.i,q,B.p),B.bw,q)],t.p)
 if(o)r.push(A.bm(q,25,q))
 r.push(new A.lH("cc.png",B.bA,!0,q))
 p=A.ay(a).ay
